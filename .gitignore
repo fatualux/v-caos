@@ -1,0 +1,6 @@
+.sass-cache
+.cache
+__pycache__
+output
+/.idea
+.doit.db
