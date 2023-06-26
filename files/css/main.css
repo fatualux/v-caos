@@ -1,3 +1,18 @@
+@import url('/fonts/qango.eot');
+@import url('/fonts/qango.woff');
+@import url('/fonts/qango.ttf');
+@import url('/fonts/qango.svg');
+
+@import url('/fonts/groupemedium.eot');
+@import url('/fonts/groupemedium.woff');
+@import url('/fonts/groupemedium.ttf');
+@import url('/fonts/groupemedium.svg');
+
+@import url('/fonts/spherefez.eot');
+@import url('/fonts/spherefez.woff');
+@import url('/fonts/spherefez.ttf');
+@import url('/fonts/spherefez.svg');
+
 @font-face {
   font-family: 'qango';
   src: url('/fonts/qango.eot');
@@ -8,39 +23,12 @@
 }
 
 @font-face {
-  font-family: 'agelast';
-  src: url('/fonts/agelast.eot');
-  src: url('/fonts/agelast.eot?#iefix') format('embedded-opentype'),
-  url('/fonts/agelast.woff') format('woff'),
-  url('/fonts/agelast.ttf') format('truetype'),
-  url('/fonts/agelast.svg#webfont') format('svg');
-}
-	
-@font-face {
-  font-family: 'installer';
-  src: url('/fonts/installer.eot');
-  src: url('/fonts/installer.eot?#iefix') format('embedded-opentype'),
-  url('/fonts/installer.woff') format('woff'),
-  url('/fonts/installer.ttf') format('truetype'),
-  url('/fonts/installer.svg#webfont') format('svg');
-}
-
-@font-face {
   font-family: 'groupemedium';
   src: url('/fonts/groupemedium.eot');
   src: url('/fonts/groupemedium.eot?#iefix') format('embedded-opentype'),
   url('/fonts/groupemedium.woff') format('woff'),
   url('/fonts/groupemedium.ttf') format('truetype'),
   url('/fonts/groupemedium.svg#webfont') format('svg');
-}
-
-@font-face {
-  font-family: 'sneakers';
-  src: url('/fonts/sneakers.eot');
-  src: url('/fonts/sneakers.eot?#iefix') format('embedded-opentype'),
-  url('/fonts/sneakers.woff') format('woff'),
-  url('/fonts/sneakers.ttf') format('truetype'),
-  url('/fonts/sneakers.svg#webfont') format('svg');
 }
 
 @font-face {
