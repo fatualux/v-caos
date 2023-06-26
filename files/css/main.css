@@ -202,8 +202,6 @@ img {
 }
 
 .cta-button {
-	text-align: center;
-	color: #333;
 	display: flex;
 	justify-content: center;
 	cursor: pointer;
@@ -213,9 +211,10 @@ img {
 	margin: 50px auto;
 	border-radius: 50px;
 	background-color: #33FF66;
+	color: #333 !important;
 	text-transform: uppercase;
 	width: 60%;
-	box-shadow: 0 0 15px #666;
+	box-shadow: 0 0 15px #444;
 	text-align: center;
 }
 
@@ -225,7 +224,7 @@ img {
 }
 
 .navbar a {
-    color: #333 !important;
+    color: #444 !important;
 }
 
 .navbar a:hover {
