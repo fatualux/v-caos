@@ -59,7 +59,7 @@ body {
 	padding:0;
 	line-height:1.5em;
 	letter-spacing:.05em;
-	color:#444;
+	color:#000;
 }
 
 h1 h2 h3 h4{
@@ -91,7 +91,7 @@ a:hover {
 	top:40px;
 	left:140px;
 	font:4em knoxx,Helvetica,Arial,sans-serif;
-	color:#444;
+	color:#000;
 }
 
 #header #payoff {
@@ -197,88 +197,8 @@ hr {
 	margin-bottom: 25px;
 }
 
-#introTabel {
-	margin: 30px auto;
-	border: 0px;
-}
-
-#italymap {
-	border: 0px;
-}
-
-#map {
-	position: absolute;
-	bottom: 0px;
-	top: 169px;
-	display: block;
-	width: 100%;
-}
-
-#center {
-	max-width: 1280px;
-	margin: 0 auto;
-}
-
-#infographs {
-	margin-top: 30px;
-	width: 100%;
-}
-
-#infographs div {
-	display: inline-block;
-	width: 49%;
-}
-
 img {
 	max-width: 100%;
-}
-
-#ListTable th, #ListTable td {
-	padding: 1em;
-	text-align: center;
-	border: 0;
-}
-
-#ListTable td.province {
-	font-weight: bold;
-	text-align: left;
-}
-
-#ListTable td.contactUrl a {
-	font-weight: bold;
-}
-
-#ListTable td.contactUrl {
-	text-align: right;
-}
-
-#ListTable {
-	border-collapse:collapse;
-	width:100%;
-}
-
-#ListTable thead, #ListTable tfoot {
-	background-color: #FFA200;
-	color: #fff;
-}
-
-#ListTable tr.row_0 td {
-	background-color: #eee;
-}
-
-#ListTable tr.row_1 td {
-	background-color: #ddd;
-}
-
-#ListTable tr.row_special td {
-	border: 0px;
-	background-color: #fff;
-}
-
-#title {
-	color: #888888;
-	font: 1.2em knoxx,Helvetica,Arial,sans-serif;
-	text-align: center;
 }
 
 .cta-button {
@@ -295,7 +215,7 @@ img {
 	background-color: #33FF66;
 	text-transform: uppercase;
 	width: 60%;
-	box-shadow: 0 0 15px #444;
+	box-shadow: 0 0 15px #000;
 	text-align: center;
 }
 
@@ -305,7 +225,7 @@ img {
 }
 
 .navbar a {
-    color: #444 !important;
+    color: #000 !important;
 }
 
 .navbar a:hover {
@@ -321,8 +241,8 @@ img {
 }
 
 .menu a {
-  font:1.5em groupemedium,Helvetica,Arial,sans-serif;
-	color:#444;
+	font:1.5em groupemedium,Helvetica,Arial,sans-serif;
+	color:#000;
 	font-weight:normal;
 	padding:2px 4px;
 	-webkit-border-radius: 4px;
@@ -479,30 +399,13 @@ img {
 		display: none;
 	}
 
+        #header img {
+                width: 100%;
+        }
+
 	.menu {
 		position: static;
 		margin-top: 16px;
-	}
-}
-
-@media only screen and (max-width: 767px) {
-	#introTabel {
-		width: 100%;
-	}
-
-	#introTabel .descrizione, #introTabel .regioni {
-		width: auto;
-		float: none;
-		text-align: center;
-		margin-bottom: 20px;
-	}
-
-	#ListTable {
-		margin-bottom: 20px;
-	}
-
-	#ListTable th, #ListTable td {
-		padding: 1em 0.3em;
 	}
 }
 
