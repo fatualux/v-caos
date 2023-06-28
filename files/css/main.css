@@ -299,7 +299,7 @@ img {
 }
 
 #v-footer {
-    background:url('/images/footer.png') bottom center repeat-x #dbdbdb;
+    background:url('/images/footer.png') repeat-x;
     color: rgba(255, 255, 255, 0.65);
     display: block;
     font-family: "groupemedium",Helvetica,Arial,sans-serif;
@@ -308,7 +308,7 @@ img {
     padding: 35px 5px 30px;
 }
 
-#v-ooter h2 {
+#v-footer h2 {
     border-bottom: 1px solid rgba(255, 255, 255, 0.15);
     border-color: rgba(255, 255, 255, 0.15);
     font-size: 1em;
@@ -397,14 +397,22 @@ img {
 }
 
 .caos_txt_center {
+  padding-left: 1.5vw;
+  padding-right: 1.5vw;
   font-size: 1.2em;
   text-align: center;
-  paddding-top: 1vw;
-  padding-bottom: 1vw;
+  paddding-top: 2vw;
+  padding-bottom: 2vw;
   margin: 0 auto;
 }
 
 .caos_txt_justify {
+  padding-left: 1.5vw;
+  padding-right: 1.5vw;
+  font-size: 1.2em;
+  padding-top: 2vw;
+  padding-bottom: 2vw;
+  margin: 0 auto;
   font-size: 1em;
   text-align: justify;
   text-justify: inter-word;
