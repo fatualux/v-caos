@@ -43,7 +43,7 @@ perché sarebbe un inutile spreco di tempo (mio e vostro).
 nikola new_post -e
 ```
 
-La via del geek non necessita spiegazioni, ma per qualsiasi dubbio usate la formula *nikola + <comando> + -h*
+La via del geek non necessita spiegazioni, ma per qualsiasi dubbio usate la formula *nikola + comando + -h*
 
 ## Sviluppare in locale
 
