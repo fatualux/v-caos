@@ -68,8 +68,8 @@ Grazie!
 
 ## Licenza
 
-Salvo ove diversamente indicato tutti i contenuti sono rilasciati in pubblico dominio, Creative Commons Zero.
+Salvo ove diversamente indicato tutti i contenuti sono rilasciati con licenza GPL 3.0.
 
-https://creativecommons.org/publicdomain/zero/1.0/
+https://www.gnu.org/licenses/gpl-3.0.html
 
 Eccezioni: loghi di associazioni, di partner e sponsor. Contattarli per conoscere le relative licenze.
